@@ -92,7 +92,7 @@ export default {
   flex: 20%;
   background: #EEF1FF;
   border: 2px solid #FF9494;
-  height: 108px;
+  height: 84px;
   transition: 0.5s all;
   border-radius: 100px;
   margin-right: 15px;
